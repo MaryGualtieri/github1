@@ -1,3 +1,4 @@
+#capitalize exercise
 names = ['romeo', 'oedipus', 'hansel', 'gretel']
 
 def capitalize_each (names)
